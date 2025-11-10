@@ -22,3 +22,4 @@ We support each other in *Book Battles*, sharing insights and discussing chapter
 We collaborate strongly in both *individual and team tasks*, reviewing code and solving challenges together.
 
 
+
