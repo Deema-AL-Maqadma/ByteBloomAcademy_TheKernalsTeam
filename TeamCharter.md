@@ -17,3 +17,8 @@ Our structure is flat and collaborative — everyone contributes, everyone leads
 We communicate via **Slack**, with a dedicated channel for updates and casual chats.  
 We hold a **daily stand-up meeting** to sync progress, unblock tasks, and share ideas.
 
+## 📚 Section 4 – Collaboration & Support (by AL-Batool Baraka):
+We support each other in *Book Battles*, sharing insights and discussing chapters.  
+We collaborate strongly in both *individual and team tasks*, reviewing code and solving challenges together.
+
+
