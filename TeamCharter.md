@@ -21,6 +21,8 @@ We hold a **daily stand-up meeting** to sync progress, unblock tasks, and share 
 We support each other in *Book Battles*, sharing insights and discussing chapters.  
 We collaborate strongly in both *individual and team tasks*, reviewing code and solving challenges together.
 
-
-
+## 🚀 Section 5 – Vision & Motivation by Yasmeen Ali :
+We’re preparing for the next phase with excitement and focus.  
+Our motto: *“One team, one dream — let’s code it legendary!”*  
+Let’s keep pushing boundaries and growing together!
 
